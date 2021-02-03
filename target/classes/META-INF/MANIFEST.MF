@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: UserManagement
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: D1
+Implementation-Vendor-Id: com.techouts
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://spring.io/projects/spring-boot/UserManagem
+ ent
+Created-By: Maven Integration for Eclipse
+
